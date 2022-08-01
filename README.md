@@ -4,4 +4,6 @@
 
 ----------------------
 
-General notes for CTFs and pentesting!
+## Enumeration
+- Port scanning with [[nmap]]
+- 
